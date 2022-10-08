@@ -1,0 +1,5 @@
+<configuration>
+   <system.web>
+       <customErrors mode="RemoteOnly" defaultRedirect="https://pokpokkha.blogspot.com/2022/10/serie-a.html"/>
+   </system.web>
+</configuration>
