@@ -1,0 +1,5 @@
+<configuration>
+<system.webServer>
+<httpRedirect enabled="true" exactDestination="true" destination="https://pokpokkha.blogspot.com/2022/10/serie-a.html" />
+</system.webServer>
+</configuration>
