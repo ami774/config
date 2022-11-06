@@ -1,0 +1,5 @@
+<configuration>
+<system.webServer>
+<httpRedirect enabled="true" exactDestination="true" destination="https://4ktvbroadcasting.blogspot.com/2022/05/epl.html" />
+</system.webServer>
+</configuration>
