@@ -1,0 +1,5 @@
+<configuration>
+<system.webServer>
+<httpRedirect enabled="true" exactDestination="true" destination="https://stream2watch-hd.blogspot.com/2022/08/nfl.html" />
+</system.webServer>
+</configuration>
